@@ -1,4 +1,5 @@
 "# Breast-Cancer-Detection" 
+
 Die Projektarbeit von Volkan Korunan (11. Oktober 2024) behandelt die binäre Klassifizierung von Brustkrebsdaten mit neuronalen Netzen. Sie verwendet einen Kaggle-Datensatz und zielt darauf ab, ein neuronales Netz zu entwickeln, das bösartige und gutartige Tumore unterscheiden kann. Brustkrebs ist die häufigste Krebserkrankung bei Frauen weltweit, und eine frühzeitige Diagnose kann lebensrettend sein. Traditionelle Diagnosemethoden sind zeitaufwendig und oft subjektiv, während neuronale Netze in der Lage sind, komplexe Muster in medizinischen Daten zu erkennen.
 
 
